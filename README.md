@@ -1,2 +1,2 @@
 # fblogin
-test API fabook
+test API facebook
